@@ -5,5 +5,3 @@
 inicio hola gabi
 
 @stop
-
-inicio   servicios  sobre nosotros contacto 

@@ -1,29 +1,22 @@
 <style>
-.icono-social{
-    color:#fff;
-    font-zise:15px;
-    
+  .navbar-expand-lg .navbar-nav .nav-link {
+    /* padding-right: 2px !important; */
+    padding-left: 20px !important;
 }
-
 </style>
-
 <!-- Navigation -->
 <div class="fixed" style="position:fixed;width: 100%;z-index:100;">
   <nav class="navbar navbar-expand-lg static-top" style="background-color:#482359;padding:0;">
     <div class="container">
       <div class="navbar-brand">
           <div class="inline">
-              <a href=""><i class="icono-social fab fa-facebook-f"></i></a>
-              <a href=""><i class="icono-social fab fa-instagram"></i></a>
-              <a href=""><i class="icono-social fab fa-tiktok"></i></a>
-              <a href=""><i class="icono-social fab fa-whatsapp"></i></a>
-              <a href=""><i class="icono-social fab fa-google"></i></a>
+            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
+            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
+            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-tiktok"></i></a>
+            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-whatsapp"></i></a>
+            <a href="" class="icono-socia1"><i class="icono-social1 far fa-envelope"></i></a>
           </div>
       </div>
-      <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button> -->
-      
     </div>
   </nav>
   <nav class="navbar navbar-expand-lg navbar-light static-top bg-light" style="box-shadow: 2px 2px 5px #999;">
@@ -37,26 +30,34 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#" style="color:#482359;">Inicio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"style="color:#482359;">Servicios&nbsp;&nbsp;&nbsp;&nbsp;</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"style="color:#482359;">Sobre nosotros&nbsp;&nbsp;&nbsp;&nbsp;</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"style="color:#482359;">Nuestro equipo&nbsp;&nbsp;&nbsp;&nbsp;</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"style="color:#482359;">Contacto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+            <a class="nav-link" aria-current="page" href="{{route('inicio_index')}}" style="color:#482359;">Inicio</a>
           </li>
           <!-- <li class="nav-item">
-          <a class="navbar-brand" href="#">
-            <img src="./visita/img/iconos/login.svg" alt="..." height="35">
-          </a>
+            <a class="nav-link" aria-current="page" href="#" style="color:#482359;">Servicios&nbsp;&nbsp;&nbsp;&nbsp;</a>
           </li> -->
-        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"style="color:#482359;">
+              Servicios
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="{{route('branding_index')}}" style="color:#482359;">Branding y social media</a></li>
+              <li><a class="dropdown-item" href="{{route('grafico_index')}}" style="color:#482359;">Diseño gráfico</a></li>
+              <li><a class="dropdown-item" href="{{route('tiktok_index')}}" style="color:#482359;">Tik tok comercial</a></li>
+              <li><a class="dropdown-item" href="{{route('fotografia_index')}}" style="color:#482359;">Producción fotográfica profesional</a></li>
+              <li><a class="dropdown-item" href="{{route('audiovisual_index')}}" style="color:#482359;">Producción audiovisual y animación 2D y 3D</a></li>
+              <li><a class="dropdown-item" href="{{route('web_index')}}" style="color:#482359;">Desarrollo web</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="{{route('nosotros_index')}}"style="color:#482359;">Sobre nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="{{route('equipo_index')}}"style="color:#482359;">Nuestro equipo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="{{route('contacto_index')}}"style="color:#482359;">Contacto</a>
+          </li>
+          <br>
         </ul>
       </div>
     </div>

@@ -122,7 +122,7 @@
 
     .contenido-footer {
         color: white;
-        font-size: 12px;
+        /* font-size: 12px; */
         margin-top: 0px !important;
         display: flex;
         text-align: left;
@@ -189,38 +189,52 @@
         <div class="box_footer" >
             <h3 class="titulo-footer">SOBRE NOSOTROS</h3>
             <p class="contenido-footer">
-                
-            Somos una agencia que cree
-            <br> 
-            en la efectividad del poder
-            <br>
-            de una marca publicitada 
-            <br>
-            persuasivamente y también 
-            <br> 
-            en el poder de una mente 
-            <br>
-            informada.
+            Somos una agencia que cree en la <br> 
+            efectividad del poder de una marca <br> 
+            publicitada persuasivamente y también <br> 
+            en el poder de una mente informada.<br> <br> 
+
+            La creación de contenido para redes <br> 
+            sociales se basa en el conocimiento <br> 
+            actualizado sobre marketing digital <br> 
+            desde una perspectiva de psicología <br> 
+            del consumidor.
+
             </p>
         </div>
-        <div class="box_footer" style="align-items:center;">
-            <h3 class="titulo-footer">NUESTRAS REDES SOCIALES </h3>
-                <div class="inline" >
-                    <a href=""><i class="icono-social fab fa-facebook-f"></i></a>
-                    <a href=""><i class="icono-social fab fa-instagram"></i></a>
-                    <a href=""><i class="icono-social fab fa-tiktok"></i></a>
-                    <a href=""><i class="icono-social fab fa-whatsapp"></i></a>
-                    <a href=""><i class="icono-social fab fa-google"></i></a>
+        <div class="box_footer">
+            <h3 class="titulo-footer">UBICACIÓN</h3>
+            <a class="subtitulo-footer"> Dirección</a>
+            <p class="contenido-footer">Av. Villarroel N° 1875 - Edificio Salvador 4B</p>
+            <a class="subtitulo-footer">Teléfonos</a>
+            <p class="contenido-footer" href="#">+591 76985007
+                    +591 74566201</p>
+            <a class="subtitulo-footer">Correo</a>
+            <p class="contenido-footer" href="#">Contacto@mentedigital.com</p>
+            <br>
+                <div class="inline"  >
+                
+                    <a href="" class="icono-socia"><i class="icono-social fab fa-facebook-square"></i></a>
+                    <a href="" class="icono-socia"><i class="icono-social fab fa-instagram"></i></a>
+                    <a href="" class="icono-socia"><i class="icono-social fab fa-tiktok"></i></a>
+                    <a href="" class="icono-socia"><i class="icono-social fab fa-whatsapp"></i></a>
+                    <a href="" class="icono-socia"><i class="icono-social far fa-envelope"></i></a>
                 </div>
         </div>
         <div class="box_footer">
-            <h3 class="titulo-footer">VISÍTANOS</h3>
-            <p class="subtitulo-footer"> Dirección</p>
-            <a class="contenido-footer">Calle 25 de mayo #780</a>
-            <p class="subtitulo-footer">Teléfonos</p>
-            <a class="contenido-footer" href="#">+591 79786476</a>
-            <p class="subtitulo-footer">Correo</p>
-            <a class="contenido-footer" href="#">madakmusic@gmail.com</a>
+            <h3 class="titulo-footer">SEVICIOS</h3>
+            <br>
+            <p class="contenido-footer">Branding y social media</p>
+            <p class="contenido-footer">Diseño gráfico</p>
+            <p class="contenido-footer">Tik tok comercial</p>
+            <p class="contenido-footer">Producción fotográfica profesional</p>
+            <p class="contenido-footer">Producción audiovisual y animación 2D y 3D</p>
+            <p class="contenido-footer">Desarrollo Web</p>
+
+            <!-- <a class="subtitulo-footer">Formación en marketing digital</a>
+            <p class="contenido-footer" href="#">Cursos y conferencias web</p>
+            <p class="contenido-footer" href="#">Capacitaciones personalizadas para empresas</p>
+            <p class="contenido-footer" href="#">Asesoramiento en línea</p> -->
         </div>
     </div>
     <div class="box_copyright">

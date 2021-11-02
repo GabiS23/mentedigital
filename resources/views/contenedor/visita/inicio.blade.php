@@ -2,96 +2,12 @@
 
 @section('content')
 <style>
-.fondo_componente{
-    margin: 0 auto;
-    background-color:#482359;
-}
-.banner-principal{
-  align-items: center; 
-}
-.izquierda{
-  height:400px;
-  display: flex;
-  align-items: center;
-}
-.contenido-izquierda{
-  width: 100px;
-}
-.derecha{
-  /* height:500px; */
-  display: flex;
-  align-items: center;
-}
-.contenido-dr{
-  width:300px;
-}
-.boton_personalizado{
-    background-color:#EB5D1C;
-    color:#fff;
-    border-radius:50px;
-    /* box-shadow: 2px 2px 5px #EB5D1C; */
-}
-.boton_personalizado:hover{
-    background-color:#f87538;
-    color:#fff;
-}
-.frace{
-    padding-top: 100px;
-    padding-botom:100px;
-    text-align: center;
-}
-.section3{
-    background-color:#f9f9f9;
-    padding-top:50px;
-    text-align:center;
-}
-
-/* slider */
-.img-principal{
-    width: 96%;
-    max-width: 960px;
-    margin: 0 auto;
-}
-.contenido-dr img{
-    width: 100%;
-height: auto;
-}
 .card{
-    border: 0px solid !important;
-}
-.formulario-contacto{
-    text-align:center;
-    padding-top:50px;
-}
-/* formulario  */
-.formulario-servicio{
-    width: 100%;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    background-color: #fff;
-    border-radius: 50px;
-}
-.form-title{
-    width: 100%;
-    background-color: #2196F3;
-    color: #fff;
-    display: flex;
-    padding: 30px 30px 30px 55px;
-    border-top-left-radius: 50px 50px;
-    border-top-right-radius: 50px 50px;
-    text-transform: uppercase;
-}
-.form-contenido{
-    padding: 30px 20px 20px 30px;
-    border-radius:solid 2px rgb(241, 241, 241);
-}
-.form-input{
-    padding: 10px 10px 10px 20px;
-    border-radius: 50px;
-    margin: 10px 0px 0px 0px;
-    /* max-width: 600px; */
-    width: 100%;
+  border: 0px solid !important;
+  /* border: 1px solid rgba(0,0,0,.125); */
 }
 </style>
+<br>
 <section class="section fondo_componente">
     <div class="container">
         <div class="row" style="padding:0;margin:0;">
@@ -114,6 +30,7 @@ height: auto;
                 <div class="derecha">
                     <div class="contenido-dr"style="text-align:left;">
                         <img class="img-principal" src="./visita/imagen_empresa/img/mentedigital.png" alt="mente digital" height 30 style="height:400px;widht:500px;">
+                    <br>
                     </div>
                 </div>
             </div>
@@ -236,7 +153,6 @@ height: auto;
         <div class="row">
             <div class="col-md-12">
                 <!-- Contacto -->
-                    
                 <div class="seccion-productos">
                         <div class="row">
                             <div class="col-sm-12 col-md-4 col-lg-4">         
@@ -252,15 +168,15 @@ height: auto;
                                         <form>
                                             <div class="form-group">
                                                 <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Nombre">
+                                                    aria-describedby="emailHelp" placeholder="Nombre" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
                                             </div>
                                             <div class="form-group">
                                                 <input type="email" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Email">
+                                                    aria-describedby="emailHelp" placeholder="Email" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
                                             </div>
                                             <div class="form-group">
                                                 <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Celular">
+                                                    aria-describedby="emailHelp" placeholder="Celular" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
                                             </div>
 
                                             <!-- <div class="form-outline">
