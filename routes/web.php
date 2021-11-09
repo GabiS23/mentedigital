@@ -17,7 +17,8 @@ Route::get('/', function () {
     return view('contenedor/visita/inicio');
 });
 Route::get("inicio_index", [VisitaController::class, "inicio_index"])->name('inicio_index');
-Route::get("branding_index", [VisitaController::class, "branding_index"])->name('branding_index');
+Route::get("brandingEstrategico_index", [VisitaController::class, "brandingEstrategico_index"])->name('brandingEstrategico_index');
+Route::get("socialMedia_index", [VisitaController::class, "socialMedia_index"])->name('socialMedia_index');
 Route::get("grafico_index", [VisitaController::class, "grafico_index"])->name('grafico_index');
 Route::get("tiktok_index", [VisitaController::class, "tiktok_index"])->name('tiktok_index');
 Route::get("fotografia_index", [VisitaController::class, "fotografia_index"])->name('fotografia_index');

@@ -16,7 +16,6 @@
         /*espacio completo*/
         max-width: 1250px;
         margin: auto;
-        margin-top: 40px;
         /*espacio de arriba*/
     }
 
@@ -31,7 +30,7 @@
         display: flex;
         /*para que los elementos se pongan uno ensima de otro*/
         flex-direction: column;
-        padding: 20px 20px 10px 20px;
+        padding: 10px 20px 10px 20px;
     }
     .box_footer {
         display: flex;
@@ -214,8 +213,8 @@
             <br>
                 <div class="inline"  >
                 
-                    <a href="" class="icono-socia"><i class="icono-social fab fa-facebook-square"></i></a>
-                    <a href="" class="icono-socia"><i class="icono-social fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/mentedigitalboliviaa/" class="icono-socia"><i class="icono-social fab fa-facebook-square"></i></a>
+                    <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" class="icono-socia"><i class="icono-social fab fa-instagram"></i></a>
                     <a href="" class="icono-socia"><i class="icono-social fab fa-tiktok"></i></a>
                     <a href="" class="icono-socia"><i class="icono-social fab fa-whatsapp"></i></a>
                     <a href="" class="icono-socia"><i class="icono-social far fa-envelope"></i></a>
@@ -224,11 +223,12 @@
         <div class="box_footer">
             <h3 class="titulo-footer">SEVICIOS</h3>
             <br>
-            <p class="contenido-footer">Branding y social media</p>
-            <p class="contenido-footer">Diseño gráfico</p>
+            <p class="contenido-footer">Branding estratégico</p>
+            <p class="contenido-footer">Social media marketing</p>
+            <p class="contenido-footer">Creación y diseño de contenido gráfico</p>
             <p class="contenido-footer">Tik tok comercial</p>
-            <p class="contenido-footer">Producción fotográfica profesional</p>
-            <p class="contenido-footer">Producción audiovisual y animación 2D y 3D</p>
+            <p class="contenido-footer">Producción fotográfica comercial</p>
+            <p class="contenido-footer">Producción audiovisual publicitario</p>
             <p class="contenido-footer">Desarrollo Web</p>
 
             <!-- <a class="subtitulo-footer">Formación en marketing digital</a>
@@ -247,7 +247,7 @@
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         &copy;
                         <script>document.write(new Date().getFullYear());</script>
-                        Mente digital - Cochabamba - Bolivia<a href="#" style="color: #fff;"></a>
+                        Mente digital<a href="#" style="color: #fff;"></a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </span>
                 </div>

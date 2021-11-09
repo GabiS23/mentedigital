@@ -12,7 +12,16 @@
   border: 0px solid !important;
   /* border: 1px solid rgba(0,0,0,.125); */
 }
+.imagen-equipo{
+    widht:100%;
+    height:900px;
+}
 </style>
+<!-- <section>
+    <div class="imagen-equipo">
+        <img src="./visita/imagen_empresa/equipo/1Fgrupal.jpg" class=" card-img-top" alt="mente digital" style="">
+    </div>
+</section> -->
 <section class="">
     <div class="container">
         <div class="row">
@@ -139,34 +148,6 @@
                     <!-- fin servicio catalogo -->
                     <br><br><br>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-global2" >
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-            </div>
-            <div class="col-md-4">
-                
-            </div>
-            <div class="col-md-4">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-global" >
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-3">
-
-            </div>
-            <div class="col-sm-12 col-md-6">
-                
-            </div>
-            <div class="col-sm-12 col-md-3">
-
             </div>
         </div>
     </div>

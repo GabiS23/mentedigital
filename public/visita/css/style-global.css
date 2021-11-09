@@ -24,17 +24,21 @@ h2 {
   color:#482359 !important;
   font-weight: 800;
   text-transform: uppercase;
+  
 }
 
 h3 {
-  font-size: 16px;
+/*   
+  color:#fff !important; */
+  font-size: 13px;
   font-weight: 800 !important;
+  padding-top: 15px !important;
 }
 
 h4 {
   font-size: 15px;
-  color: #ffffff;
-  /* text-transform: uppercase; */
+  color: #ffffff !important;
+  text-transform: uppercase;
   font-weight: 900;
 }
 
@@ -91,10 +95,7 @@ p{
 
 
 /* menu servicios *********************************** */
-.fondo_componente{
-  margin: 0 auto;
-  background-color:#482359;
-}
+
 .banner-principal{
 align-items: center; 
 }
@@ -112,7 +113,7 @@ display: flex;
 align-items: center;
 }
 .contenido-dr{
-width:300px;
+width:400px;
 }
 .boton_personalizado{
   background-color:#EB5D1C;
@@ -126,7 +127,7 @@ width:300px;
 }
 .frace{
   padding-top: 100px;
-  padding-botom:100px;
+  padding-bottom:5px;
   text-align: center;
 }
 .section3{
@@ -166,6 +167,7 @@ height: auto;
   border-top-left-radius: 50px 50px;
   border-top-right-radius: 50px 50px;
   text-transform: uppercase;
+  
 }
 .form-contenido{
   padding: 30px 20px 20px 30px;
@@ -177,4 +179,19 @@ height: auto;
   margin: 10px 0px 0px 0px;
   /* max-width: 600px; */
   width: 100%;
+}
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #482359 !important;
+  text-decoration: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+a:hover {
+  color: #482359 !important;
+}
+a.nav-link:hover{
+  background-color: #EB5D1C;
+  border-radius: 50px;
+  color: #fff;
 }

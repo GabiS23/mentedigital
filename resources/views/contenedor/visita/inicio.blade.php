@@ -5,11 +5,19 @@
 .card{
   border: 0px solid !important;
   /* border: 1px solid rgba(0,0,0,.125); */
+  padding:5px;
+  background-color: rgba(255, 255, 255, 0) !important;
 }
 </style>
 <br>
-<section class="section fondo_componente">
+<section class="section fondo_componente" style="padding:0;
+  margin:0;
+  background-image: url(./visita/imagen_empresa/servisiosBanner/fondo.png);
+  background-repeat: no-repeat;
+  width:100%;">
     <div class="container">
+    <!-- <img src="./visita/imagen_empresa/equipo/1Fgrupal.jpg" class=" card-img-top" alt="mente digital" style=""> -->
+<br><br>
         <div class="row" style="padding:0;margin:0;">
             <div class="col-sm-12 col-md-7 col-lg-7"style="padding:0;margin:0;">
                 <div class="izquierda">
@@ -29,12 +37,14 @@
             <div class="col-sm-12 col-md-5 col-lg-5"style="padding:0;margin:0;">
                 <div class="derecha">
                     <div class="contenido-dr"style="text-align:left;">
-                        <img class="img-principal" src="./visita/imagen_empresa/img/mentedigital.png" alt="mente digital" height 30 style="height:400px;widht:500px;">
-                    <br>
+                    <br><br>
+                        <img class="img-principal" src="./visita/imagen_empresa/servisiosBanner/mentedigital.png" alt="mente digital" height 50 style="height:280px;widht:800px;">
+                    <br><br><br>
                     </div>
                 </div>
             </div>
         </div>
+        <br><br>
     </div>
 </section>
 <section class="slider">
@@ -58,13 +68,13 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img src="./visita/imagen_empresa/slider/audivisual-ig.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/servisiosBanner/audiovisual1.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/slider/diseno-ig.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/servisiosBanner/fotografia1.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/slider/fotografia-ig.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/servisiosBanner/tiktok1.jpg" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -159,7 +169,7 @@
                             </div>
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="formulario-contacto">
-                                <h2><b style="color:#EB5D1C;">CON</b>TACTO</h2>
+                                    <h2><b style="color:#EB5D1C;">CON</b>TACTO</h2>
                                     <p style="color:#000">Nos encantaría escucharte y saber lo que necesitas</p>
                                     <br><br>
                                     <img src="./visita/imagen_empresa/logos/perfilFace.png" class="" alt="logo mente digital">

@@ -10,8 +10,8 @@
     <div class="container">
       <div class="navbar-brand">
           <div class="inline">
-            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
-            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/mentedigitalboliviaa/" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
             <a href="" class="icono-socia1"><i class="icono-social1 fab fa-tiktok"></i></a>
             <a href="" class="icono-socia1"><i class="icono-social1 fab fa-whatsapp"></i></a>
             <a href="" class="icono-socia1"><i class="icono-social1 far fa-envelope"></i></a>
@@ -40,12 +40,14 @@
               Servicios
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="{{route('branding_index')}}" style="color:#482359;">Branding y social media</a></li>
-              <li><a class="dropdown-item" href="{{route('grafico_index')}}" style="color:#482359;">Diseño gráfico</a></li>
+              <li><a class="dropdown-item" href="{{route('brandingEstrategico_index')}}" style="color:#482359;">Branding estratégico</a></li>
+              <li><a class="dropdown-item" href="{{route('socialMedia_index')}}" style="color:#482359;">Social media marketing</a></li>
+              <li><a class="dropdown-item" href="{{route('grafico_index')}}" style="color:#482359;">Creación y diseño de contenido gráfico</a></li>
               <li><a class="dropdown-item" href="{{route('tiktok_index')}}" style="color:#482359;">Tik tok comercial</a></li>
-              <li><a class="dropdown-item" href="{{route('fotografia_index')}}" style="color:#482359;">Producción fotográfica profesional</a></li>
-              <li><a class="dropdown-item" href="{{route('audiovisual_index')}}" style="color:#482359;">Producción audiovisual y animación 2D y 3D</a></li>
+              <li><a class="dropdown-item" href="{{route('fotografia_index')}}" style="color:#482359;">Producción fotográfica comercial</a></li>
+              <li><a class="dropdown-item" href="{{route('audiovisual_index')}}" style="color:#482359;">Producción audiovisual publicitario</a></li>
               <li><a class="dropdown-item" href="{{route('web_index')}}" style="color:#482359;">Desarrollo web</a></li>
+              <br>
             </ul>
           </li>
           <li class="nav-item">

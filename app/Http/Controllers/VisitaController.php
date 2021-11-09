@@ -24,9 +24,13 @@ class VisitaController extends Controller
     {
         return view('contenedor/visita/inicio');
     }
-    public function branding_index()
+    public function brandingEstrategico_index()
     {
-        return view('contenedor/visita/branding');
+        return view('contenedor/visita/brandingEstrategico');
+    }
+    public function socialMedia_index()
+    {
+        return view('contenedor/visita/socialMedia');  
     }
     public function grafico_index()
     {
@@ -60,5 +64,5 @@ class VisitaController extends Controller
     {
         return view('contenedor/visita/contacto');  
     }
-
+    
 }
