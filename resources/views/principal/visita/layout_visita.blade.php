@@ -3,7 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Representacion y venta de instrumentos musicales y audio pro en Bolivia">
+    <meta name="keywords"
+    content="agencia de marketing en Cochabamba Bolivia, Fotografia profesional cochabamba, administracion de Redes sociales, Diseño grafico en cochabamba, creacion de videos en cochabamba">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="canonical" href="http://mentedigital.com">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" href="./visita2/imagen_empresa/iconos/logoico.ico">
     <title>Mente digital | Bolivia</title>
     <link rel="shortcut icon" href="favicon1.ico" />
     <!-- links -->

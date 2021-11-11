@@ -175,35 +175,21 @@
                                     <img src="./visita/imagen_empresa/logos/perfilFace.png" class="" alt="logo mente digital">
                                     <br>
                                     <div class="form-contenido thumbnail">
-                                        <form>
+                                        <form action="mailto:mentedigitalbolivia@gmail.com" method="post" enctype="text/plain">
                                             <div class="form-group">
-                                                <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Nombre" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="email" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Email" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
+                                                <input type="text" name="Nombre" class="form-input form-control" placeholder="Nombre">
                                             </div>
                                             <div class="form-group">
-                                                <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                                    aria-describedby="emailHelp" placeholder="Celular" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
+                                                <input type="text" name="Correo" class="form-input form-control" placeholder="E-mail">
                                             </div>
-
-                                            <!-- <div class="form-outline">
-                                                <textarea class="form-input  form-control" id="textAreaExample1" placeholder="Mensaje"
-                                                    rows="4"></textarea>
-                                            </div> -->
-                                           
-                                            <div class="d-grid gap-2">
-                                                <button class="btn btn-primary" type="button" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;
-                                                border-radius: 50px;
-                                                margin: 10px 0px 0px 0px;">Enviar</button>
+                                            <div class="form-group">
+                                                <input type="text" name="Celular" class="form-input form-control" placeholder="Celular">
                                             </div>
-                                            <!-- <button class="btn btn-primary" label="Enviar"
-                                                style="font-weight: bold; border-radius: 50px;"><i class="pi pi-envelope"
-                                                    style="font-size: 1rem; width: 30px; font-weight: bold;"></i></button> -->
+                                    
+                                            <input type="submit" value="Enviar"  class="btn btn-primary" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;border-radius: 50px;margin: 10px 0px 0px 0px;width:100%">
+                                            <input type="reset" value="Reset" class="btn btn-primary" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;border-radius: 50px;margin: 10px 0px 0px 0px;width:100%">
                                         </form>
-                                        <br><br><br><br>
+                                        <br><br><br>
                                     </div>
                                 </div>
                             </div>

@@ -222,7 +222,7 @@
         </div>
         <div class="box_footer">
             <h3 class="titulo-footer">SEVICIOS</h3>
-            <br>
+           
             <p class="contenido-footer">Branding estratégico</p>
             <p class="contenido-footer">Social media marketing</p>
             <p class="contenido-footer">Creación y diseño de contenido gráfico</p>
