@@ -40,11 +40,11 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/audivisual-ig.jpg" class=" card-img-top" alt="produccion audiovisual en bolivia" style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/saudiovisual.jpg" class=" card-img-top" alt="produccion audiovisual en bolivia" style="width:310px;height:310px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">"El consumidor olvidará lo que dijiste, 
-                        pero jamás olvidará lo que le has hecho sentir" <br><br>Eric Kandel</p>
+                        pero jamás olvidará lo que le has hecho sentir"<br>Eric Kandel</p>
                     <br><br><br>
                 </div>
             </div>

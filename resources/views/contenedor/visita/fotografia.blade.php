@@ -40,11 +40,11 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/servisiosBanner/fotografia1.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/sfotografia.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">"Lo importante es ver aquello que resulta invisible para los demás” 
-                   <br><br>Robert Frank</p>
+                   <br>Robert Frank</p>
                     <br><br><br>
                 </div>
             </div>

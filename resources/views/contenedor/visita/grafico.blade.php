@@ -40,10 +40,10 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/diseno-ig.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/sdiseno.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
                         <br><br>
                     </div>
-                    <p style="color:#000 !important;">"El contenido es fuego... y el Social Media es la gasolina" <br><br> Max Fackeldey</p>
+                    <p style="color:#000 !important;">"El diseño es el embajador silencioso de tu marca"<br>Paul Brand</p>
                     <br><br><br>
                 </div>
             </div>

@@ -42,7 +42,7 @@
                         <img src="./visita/imagen_empresa/slider/branding.estrategico.svg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
                         <br><br>
                     </div>
-                    <p style="color:#000 !important;">"Quien piense que el precio barato es lo más importante para vender, no conoce el valor simbólico de las cosas" <br><br>Jurgen Klaric</p>
+                    <p style="color:#000 !important;">"Quien piense que el precio barato es lo más importante para vender, no conoce el valor simbólico de las cosas"<br>Jurgen Klaric</p>
                     <br><br><br>
                 </div>
             </div>

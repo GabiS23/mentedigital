@@ -39,10 +39,10 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/sociales.jpg" class=" card-img-top" alt="..." style="width:350px;height:280px;">
+                        <img src="./visita/imagen_empresa/services/ssocial.jpg" class=" card-img-top" alt="..." style="width:350px;height:280px;">
                         <br><br>
                     </div>
-                    <p style="color:#000 !important;">"El contenido es fuego... y el Social Media es la gasolina" <br><br> Max Fackeldey</p>
+                    <p style="color:#000 !important;">"El contenido es fuego... y el Social Media es la gasolina"<br> Max Fackeldey</p>
                     <br><br><br>
                 </div>
             </div>

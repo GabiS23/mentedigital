@@ -40,10 +40,10 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/web.jpg" class=" card-img-top" alt="produccion audiovisual en bolivia" style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/sweb.jpg" class=" card-img-top" alt="produccion audiovisual en bolivia" style="width:310px;height:310px;">
                         <br><br>
                     </div>
-                    <p style="color:#000 !important;">"La idea no es vivir para siempre, es crear algo que sí lo haga" <br><br>Andy Warho</p>
+                    <p style="color:#000 !important;">"La idea no es vivir para siempre, es crear algo que sí lo haga"<br>Andy Warho</p>
                     <br><br><br>
                 </div>
             </div>

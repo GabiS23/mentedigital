@@ -39,7 +39,7 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/tiktok-ig.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/stiktok.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">“Hay millones de personas en TikTok 
@@ -47,7 +47,7 @@
                     emocionante, divertido y educativo. 
                     Y toneladas de empresas ya están 
                     sirviendo con éxito contenido de marca a 
-                    estos usuarios”<br><br> Patricia Galiana</p>
+                    estos usuarios”<br> Patricia Galiana</p>
                     <br><br><br>
                 </div>
             </div>

@@ -68,13 +68,13 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img src="./visita/imagen_empresa/servisiosBanner/audiovisual1.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/audiovisual.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/servisiosBanner/fotografia1.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/foto.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/servisiosBanner/tiktok1.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/tiktok.jpg" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
