@@ -1,7 +1,7 @@
 <style>
   .navbar-expand-lg .navbar-nav .nav-link {
-    /* padding-right: 2px !important; */
-    padding-left: 20px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
 }
 </style>
 <!-- Navigation -->
