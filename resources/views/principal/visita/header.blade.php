@@ -10,11 +10,11 @@
     <div class="container">
       <div class="navbar-brand">
           <div class="inline">
-            <a href="https://www.facebook.com/mentedigitalboliviaa/" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
-            <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
-            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-tiktok"></i></a>
-            <a href="" class="icono-socia1"><i class="icono-social1 fab fa-whatsapp"></i></a>
-            <a href="" class="icono-socia1"><i class="icono-social1 far fa-envelope"></i></a>
+            <a href="https://www.facebook.com/mentedigitalboliviaa/" target="_blank" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" target="_blank" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
+            <a href="https://www.tiktok.com/search?q=mentedigitalbolivia&t=1636655640608" target="_blank" class="icono-socia1"><i class="icono-social1 fab fa-tiktok"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=+59176985007" target="_blank" class="icono-socia1"><i class="icono-social1 fab fa-whatsapp"></i></a>
+            <a href="mailto:mentedigitalbolivia@gmail.com" target="_blank" class="icono-socia1"><i class="icono-social1 far fa-envelope"></i></a>
           </div>
       </div>
     </div>

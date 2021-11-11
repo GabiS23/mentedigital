@@ -165,7 +165,7 @@
   <div class="row">
     <div class="col-md-12">
       <div class="btn-whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=5199999999" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=+59176985007" target="_blank">
         <img src="http://s2.accesoperu.com/logos/btn_whatsapp.png" alt="">
         </a>
       </div>
@@ -213,11 +213,11 @@
             <br>
                 <div class="inline"  >
                 
-                    <a href="https://www.facebook.com/mentedigitalboliviaa/" class="icono-socia"><i class="icono-social fab fa-facebook-square"></i></a>
-                    <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" class="icono-socia"><i class="icono-social fab fa-instagram"></i></a>
-                    <a href="" class="icono-socia"><i class="icono-social fab fa-tiktok"></i></a>
-                    <a href="" class="icono-socia"><i class="icono-social fab fa-whatsapp"></i></a>
-                    <a href="" class="icono-socia"><i class="icono-social far fa-envelope"></i></a>
+                    <a href="https://www.facebook.com/mentedigitalboliviaa/" target="_blank" class="icono-socia"><i target="_blank" class="icono-social fab fa-facebook-square"></i></a>
+                    <a href="https://www.instagram.com/mentedigitalbolivia/?hl=es" target="_blank" class="icono-socia"><i class="icono-social fab fa-instagram"></i></a>
+                    <a href="https://www.tiktok.com/search?q=mentedigitalbolivia&t=1636655640608" target="_blank" class="icono-socia"><i class="icono-social fab fa-tiktok"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=+59176985007" target="_blank" class="icono-socia"><i class="icono-social fab fa-whatsapp"></i></a>
+                    <a href="mailto:mentedigitalbolivia@gmail.com" target="_blank" class="icono-socia"><i class="icono-social far fa-envelope"></i></a>
                 </div>
         </div>
         <div class="box_footer">
