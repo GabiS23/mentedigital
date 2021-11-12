@@ -187,11 +187,11 @@
                     <h2>BENEFICIOS QUE TENDRAS EN TU PÁGINA WEB</h2>
                 </div>
                 <br>
-                <img src="./visita/imagen_empresa/web/adaptable.svg" class="card-img-top" alt="...">
+                <img src="./visita/imagen_empresa/web/adaptable.svg" class="card-img-top" alt="empresa de desarrollo web en Cochabamba Bolivia">
                 <br><br>
-                <img src="./visita/imagen_empresa/web/seo.svg" class="card-img-top" alt="...">
+                <img src="./visita/imagen_empresa/web/seo.svg" class="card-img-top" alt="Seo profesional en Bolivia">
                 <br><br>
-                <img src="./visita/imagen_empresa/web/personalizados.svg" class="card-img-top" alt="...">
+                <img src="./visita/imagen_empresa/web/personalizados.svg" class="card-img-top" alt="paginas web en cochabamba">
                 <br><br><br>
             </div>
             <div class="col-md-4"></div>
@@ -242,7 +242,7 @@
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
                                     <br>
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     
                                 </div>
                                 

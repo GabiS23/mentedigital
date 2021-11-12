@@ -39,7 +39,7 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/services/ssocial.jpg" class=" card-img-top" alt="..." style="width:350px;height:280px;">
+                        <img src="./visita/imagen_empresa/services/ssocial.jpg" class=" card-img-top" alt="redes sociales en bolivia" style="width:350px;height:280px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">"El contenido es fuego... y el Social Media es la gasolina"<br> Max Fackeldey</p>
@@ -197,7 +197,7 @@
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
                                     <br>
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     
                                 </div>
                                 

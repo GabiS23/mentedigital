@@ -39,7 +39,7 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/slider/branding.estrategico.svg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/slider/branding.estrategico.svg" class=" card-img-top" alt="branding bolivia" style="width:310px;height:310px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">"Quien piense que el precio barato es lo más importante para vender, no conoce el valor simbólico de las cosas"<br>Jurgen Klaric</p>
@@ -139,7 +139,7 @@
                     <div class="">
                         <div class="cuadrado">
                             <h2>COTIZAR</h2>
-                            <img src="./visita/imagen_empresa/logos/perfilFace.png" class="" alt="logo mente digital">
+                            <img src="./visita/imagen_empresa/logos/perfilFace.png" alt="logo mentedigital">
 
                             <form>
                                 <div class="form-group">
@@ -170,7 +170,7 @@
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
                                     <br>
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="tiktok comercial bolivia">
                                     
                                 </div>
                                 

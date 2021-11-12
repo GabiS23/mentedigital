@@ -68,13 +68,13 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img src="./visita/imagen_empresa/slide/audiovisual.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/audiovisual.jpg" class="d-block w-100" alt="mentedigital Bolivia">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/slide/foto.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/foto.jpg" class="d-block w-100" alt="mentedigital Bolivia">
                         </div>
                         <div class="carousel-item">
-                        <img src="./visita/imagen_empresa/slide/tiktok.jpg" class="d-block w-100" alt="...">
+                        <img src="./visita/imagen_empresa/slide/tiktok.jpg" class="d-block w-100" alt="mentedigital Bolivia">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -110,19 +110,19 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/branding-social-media.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/Branding-social.svg" class=" card-img-top" alt="mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/diseno-grafico.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/diseno-grafico.svg" class=" card-img-top" alt="mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     
                                 </div>
                             </div>
@@ -132,19 +132,19 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/fotografia-comercia.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/fotografia-comercia.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/produccion-audiovisua.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/produccion-audiovisua.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-4 col-lg-4">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/servicios/desarrollo-web.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/desarrollo-web.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>

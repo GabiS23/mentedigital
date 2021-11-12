@@ -40,7 +40,7 @@
                     <!-- <p style="color:#fff"></p> -->
                     <br><br>
                     <div class="card">
-                        <img src="./visita/imagen_empresa/services/sdiseno.jpg" class=" card-img-top" alt="..." style="width:310px;height:310px;">
+                        <img src="./visita/imagen_empresa/services/sdiseno.jpg" class=" card-img-top" alt="mentedigital Bolivia" style="width:310px;height:310px;">
                         <br><br>
                     </div>
                     <p style="color:#000 !important;">"El diseño es el embajador silencioso de tu marca"<br>Paul Brand</p>
@@ -198,7 +198,7 @@
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
                                     <br>
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="mentedigital Bolivia">
                                     
                                 </div>
                                 

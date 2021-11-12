@@ -242,7 +242,7 @@
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
                                     <br>
-                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/servicios/tiktok-comercio.svg" class="card-img-top" alt="tiktok bolivia">
                                     
                                 </div>
                                 

@@ -17,11 +17,6 @@
     height:900px;
 }
 </style>
-<!-- <section>
-    <div class="imagen-equipo">
-        <img src="./visita/imagen_empresa/equipo/1Fgrupal.jpg" class=" card-img-top" alt="mente digital" style="">
-    </div>
-</section> -->
 <section class="">
     <div class="container">
         <div class="row">
@@ -40,25 +35,25 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/claudia-marcela.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/claudia-marcela.svg" class=" card-img-top" alt="Claudia Marcela Hinojoza">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/ray.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/ray.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/monica.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/monica.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/mariana.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/mariana.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     
                                 </div>
                             </div>
@@ -67,25 +62,25 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/alejandra.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/alejandra.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/emilia.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/emilia.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/fabiana.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/fabiana.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/ivana.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/ivana.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     
                                 </div>
                             </div>
@@ -94,25 +89,25 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/lily.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/lily.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/adriana.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/adriana.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/abril.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/abril.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/laura.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/laura.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     
                                 </div>
                             </div>
@@ -121,25 +116,25 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/beatriz.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/beatriz.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/gabriela.svg" class=" card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/gabriela.svg" class=" card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <!-- <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/abril.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/abril.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-3 col-lg-3">         
                                 <div class="card">
-                                    <img src="./visita/imagen_empresa/equipo/laura.svg" class="card-img-top" alt="...">
+                                    <img src="./visita/imagen_empresa/equipo/laura.svg" class="card-img-top" alt="Mentedigital Bolivia">
                                     <br>
                                 </div>
                             </div> -->
