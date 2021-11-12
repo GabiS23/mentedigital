@@ -62,26 +62,24 @@
             </div>
             <div class="col-md-4">
                 <div class="cuadrado">
-                    <h3 style="color:#fff !important;">SOCIAL MEDIA</h3>
+                    <h3 style="color:#fff !important;">DISEÑO GRÁFICO</h3>
                     
-                    <p style="color:#fff !important;">Es la reación estratégica
-                    de herramientas y plataformas digitales, 
-                    para generar canales de comunicación 
-                    con audiencia 100% digital.</p>
+                    <p style="color:#fff !important;">
+                    El diseño gráfico utiliza composiciones visuales para resolver problemas y comunicar ideas a través de tipografía, imágenes, color y forma.
+                    <br>
+                    El diseño gráfico empresarial consiste en diseñar y desarrollar soluciones visuales modernas y creativas para el desarrollo y proyección de una empresa. Esta consta de una estrategia de comunicación gráfica efectiva y su posterior implementación en medios y soportes gráficos para su difusión.
+                    </p>
                 </div>
                 <br>
                 <div class="cuadrado">
                     <h3 style="color:#fff !important;">POR QUÉ USARLOS:</h3>
                 
                     <p style="color:#fff !important;"> 
-                    Mediante el social media,
-                    podemos construir tu marca, 
-                    proyectando su personalidad e identidad, 
-                    que será muy util en tus redes sociales 
-                    para proyectar el valor simbólico, 
-                    promesa de valor y la ventaja competitiva 
-                    de tu marca, proporcionando una experiencia
-                    satisfactoria a tu cliente. </p>
+                    La importancia del diseño en la sociedad actual radica en su poder de comunicar ideas a través de la imagen, color, forma, tipografía y las técnicas adecuadas que se conocen como teoría del diseño.
+                    
+                    <br>
+                    El principal objetivo es posicionar tu marca y atraer clientes para tu negocio brindándoles la confianza que necesitan.
+                    </p>
                    
                 </div>
                 <br> <br>
@@ -97,7 +95,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="titulo-seccion" style="color:#fff !important;">PROCESOS PARA BRANDING Y SOCIAL MEDIA</h3>
+                <h3 class="titulo-seccion" style="color:#fff !important;">PROCESOS PARA DISEÑO GRÁFICO</h3>
                 <p class="titulo-seccion" style="color:#fff !important;">Aqui te lo explicamos</p>
                <br>
             </div>
@@ -121,30 +119,12 @@
                 <br>
                 <div class="cuadrado">
                     <h4 style="color:#fff !important;">Paso 4</h4>
-                    <p>Desarrollamos un plan estratégico de publicidad en redes sociales</p>
+                    <p>Te proponemos un plan de diseño</p>
                 </div> 
                 <br>
                 <div class="cuadrado">
                     <h4 style="color:#fff !important;">Paso 5</h4>
-                    <p>Creamos el contenido gráfico para redes sociales</p>
-                </div> 
-                <br>
-                <div class="cuadrado">
-                    <h4 style="color:#fff !important;">Paso 6</h4>
-                    <p>Gestionamos redes sociales
-                    <div class="inline">
-                        <a href="" class="icono-socia1"><i class="icono-social1 fab fa-facebook-square"></i></a>
-                        <a href="" class="icono-socia1"><i class="icono-social1 fab fa-instagram"></i></a>
-                        <a href="" class="icono-socia1"><i class="icono-social1 fab fa-tiktok"></i></a>
-                        <a href="" class="icono-socia1"><i class="icono-social1 fab fa-whatsapp"></i></a>
-                        <a href="" class="icono-socia1"><i class="icono-social1 far fa-envelope"></i></a>
-                    </div>
-                    </p>
-                </div> 
-                <br>
-                <div class="cuadrado">
-                    <h4 style="color:#fff !important;">Paso 7</h4>
-                    <p>Realizamos un informe de impacto de la publicidad en redes sociales</p>
+                    <p>Realizamos un informe de satisfacción con el cliente</p>
                 </div> 
                 <br><br>
             </div>
@@ -168,32 +148,21 @@
                         <div class="cuadrado">
                             <h2>COTIZAR</h2>
                             <img src="./visita/imagen_empresa/logos/perfilFace.png" class="" alt="logo mente digital">
-
-                            <form>
-                                <div class="form-group">
-                                    <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                        aria-describedby="emailHelp" placeholder="Numero de celular" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
-                                </div>
-                                
-                                <div class="form-group">
-                                    <input type="text" class="form-input form-control" id="exampleInputEmail1"
-                                        aria-describedby="emailHelp" placeholder="Mensaje" style="font-family: 'Open Sans', sans-serif;font-size: 13px !important;font-weight: normal !important;">
-                                </div>
-
-                                <!-- <div class="form-outline">
-                                    <textarea class="form-input  form-control" id="textAreaExample1" placeholder="Mensaje"
-                                        rows="4"></textarea>
-                                </div> -->
-                                
-                                <div class="d-grid gap-2">
-                                    <button class="btn btn-primary" type="button" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;
-                                    border-radius: 50px;
-                                    margin: 10px 0px 0px 0px;">Enviar</button>
-                                </div>
-                                <!-- <button class="btn btn-primary" label="Enviar"
-                                    style="font-weight: bold; border-radius: 50px;"><i class="pi pi-envelope"
-                                        style="font-size: 1rem; width: 30px; font-weight: bold;"></i></button> -->
-                            </form>
+                                <form action="mailto:mentedigitalbolivia@gmail.com" method="post" enctype="text/plain">
+                                    <div class="form-group">
+                                        <input type="text" name="Nombre" class="form-input form-control" placeholder="Nombre">
+                                    </div>
+                                    
+                                    <div class="form-group">
+                                        <input type="text" name="Celular" class="form-input form-control" placeholder="Celular">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" name="Mensaje" class="form-input form-control" placeholder="Mensaje">
+                                    </div>
+                                    <input type="submit" value="Enviar"  class="btn btn-primary" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;border-radius: 50px;margin: 10px 0px 0px 0px;width:100%">
+                                    <input type="reset" value="Reset" class="btn btn-primary" style="border-radius: 40px;background-color:#482359;border-color:#482359;padding: 10px 10px 10px 10px;border-radius: 50px;margin: 10px 0px 0px 0px;width:100%">
+                                </form>
+                          
                             <br><br><br><br>
                                 <div class="card">
                                     <p style="color:#000;">Te pordría interezar</p>
